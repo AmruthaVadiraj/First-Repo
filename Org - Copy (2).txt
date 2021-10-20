@@ -1,0 +1,4 @@
+
+string message = "";
+
+return emp.id >0 ? "Hello" : "No Employee";
