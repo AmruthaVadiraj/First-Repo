@@ -1,10 +1,6 @@
 
 string message = "";
 
-if(emp.id > 0){
 
-	message =  "Hello";
-}else{
+emp.id >0 ? "Hello" : "No Employee";
 
-	message = "No Employee";
-}
