@@ -1,0 +1,10 @@
+
+string message = "";
+
+if(emp.id > 0){
+
+	message =  "Hello";
+}else{
+
+	message = "No Employee";
+}
